@@ -1,5 +1,5 @@
 {
-  "name": "Example",
+  "name": "example",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -58,5 +58,9 @@
     "webpack-hot-middleware": "2.18.2",
     "webpack-merge": "4.1.0",
     "zone.js": "0.8.12"
+  },
+  "dependencies": {
+    "clone": "^2.1.1",
+    "coa": "^2.0.0"
   }
 }
